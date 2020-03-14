@@ -69,3 +69,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # collabora-blockstack
 Collabora documentation here: https://www.collaboraoffice.com/code/
 
+Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
+
+# dockerize a React app tutorial
+Dockerize docs: https://mherman.org/blog/dockerizing-a-react-app/
+
