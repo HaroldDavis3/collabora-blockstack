@@ -3,9 +3,7 @@ Collabora documentation here: https://www.collaboraoffice.com/code/
 
 Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 
-![Data Management][Data]
-
-[Data]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/6.jpg?raw=true"DataManagement"
+![Data](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Data.jpg "Data")
 
 # Goals of This Project
   This would be an important first step in showing the transformational power of matrilineal council managed local & regional data. Through MIDs(Mediators of Individual Data) & DAOs (Decentralized Autonomous Organizations) this first step can **facilitate the beginning of an important paradigm shift in both *high value data* & modes of consumption**. 
@@ -36,47 +34,31 @@ Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 # Away from Conventional Industrial Extraction & Towards Artisanal & Indigenous Modes of Production
 
 
-![Trade][IndigenousModes]
-
-[IndigenousModes]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/5.jpg?raw=true"IndigenousModes"
+![indigenousmodes](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/indigenousmodes.jpg "indigenousmodes")
 
 
 The model described above can be Extrapolated across fields & disciplines to create a tangible path away from conventional industrial extraction & towards artisanal & indigenous modes of production. This wide breadth of said novel monetization landscapes for those in Data or app development represents yet another opportunity & responsibility to build a viable ethical alternative to the ugly ecosystem of data monetization under web 2.0's surface; which is so comprehensive that it requires a wicked alternative equally as comprehensive. The infrastructure for which can be actively built starting immediately via model description above & Blockstack's Collections project. (Imperative to all the above working is ~governance~ which in an indigenous bottom up organization approach is better termed-**management**. For Better understanding of this, we recommend our [Two Row Wampum Social Layer Platform Whitepaper](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform) latest draft can be easily viewed here:[website](https://socialayerdraft.netlify.com/) to learn & participate in the Legal *Indigenous Constitution* & proper relationship to the western hemisphere only accessible through the Two Row Wampum Peace Treaty).
 
-![Corridor][Mission]
+![mission](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/mission.jpg "mission")
 
-[Mission]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/1.jpg?raw=true"Mission"
+![about](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/about.jpg "about")
 
-![Abt][About]
-
-[About]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/2.jpg?raw=true"About"
-
-![InfoGraphic][WhitePaperGraphic]
-
-[WhitePaperGraphic]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/18.jpg?raw=true"WhitePaperInfoGraphic"
+![WPinfographic](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/WPinfographic.jpg "WPinfo")
 
 
 # App Chains & A Path Toward Indigenous Modes of Transaction & Trade
 
-![PoX][StacksChain]
-
-[StacksChain]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/StackChain.jpg?raw=true"StacksChain"
+![PoX](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/StackChain.jpg "StacksChain")
 
 The coming functionality of the Stacks chain from Blockstack will enable chains to be built atop of the existing Stacks chain. The same means of doing so, through a recent concensus algorithm proposal PoX(Proof of Transfer) will enable chains to be built atop of said new chains. A current draft of Token Economics for our mission in the Two Row Wampum Social Layer platform will explicitly state that the building of our first chain will be soley as a means to build a NFT chain(NonFungibleToken). This last chain will not function in a non-native economics context but in an indigenous modes of transaction i.e barter & trade context. Distinct from modern economic systems; this approach to regulated and managed trade is based in an never ending effort to establish **balance** between autonomous entities who have agreed to Peace in all interactions with one another as well as ecosystems in which they live.
 
-![1.0][Onakora1.0]
-
-[Onakora1.0]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/Onakora1.0.jpg?raw=true"Onakora1.0"
+![Onakora1.0](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Onakora1.0.jpg "Onakora1.0")
 
 The ultimate goal will be to get back to producing physical Onakora as a means to transactions & trade. The first chain while fungible(for time needed until self sufficiency of second chain), will function similar to non profit models; building out a Native Matrilineal council managed corridor of trade that follows native protocols of bottom up organization & consensus decision making. We have access to a Traditional council with unique jurisprudence which may make legal Nation level approval of blockchains & novel exchange structures innovations based in indigenous modes of production & trade, easier for our platform than others. But no worries the corridor is accessible to all who want to be involved in the proper relationship to the hemisphere! All that is needed is **DIALOGUE** through the Two Row Wampum Peace Treaty & working group council! The model described in above sections extrapolated across fields of artisinal crafts & indigenous modes of production; will constitute how app/service specific chains can act as an authentic non profit public expressive commons for our mission of the Two Row Wampum Social Layer. First attracting chain support via enabling important R+D in global SDGs efforts(with added protections against modern iterations of colonialism)open to all; but then grow organically into autonomous, self sustaining systems, as our systems protypes & PoCs will envoke a *living research* approach.
 
-![2.0][Onakora2.0]
+![Onakora2.0](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/Onakora2.0.jpg "Onakora2.0")
 
-[Onakora2.0]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/Onakora2.0.jpg?raw=true"StacksChain"
-
-![GoodMind][GoodPath]
-
-[GoodPath]: https://github.com/HaroldDavis3/collabora-blockstack/blob/master/GoodPath.jpg?raw=true"GoodPath"
+![GoodPath](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/GoodPath.jpg "GoodPath")
 
 # Public Utility App Chain Status
 Blockstack has paved an important path toward approaches to blockchain models.The models described in above sections make sure to leverage work done by Blockstack PBC in the way of aquiring public utility status from the SEC. This will be a valuable tool in the way of our corridor of indigenous trade efforts in the TRW social layer mission and to those interested in involving their efforts via non profit efforts that can constitute the beginning of necessary paradigm shifts in both data collection/app creation/monetization. 
