@@ -50,7 +50,7 @@ The model described above can be Extrapolated across fields & disciplines to cre
 
 # App Chains & A Path Toward Indigenous Modes of Transaction & Trade
 
-![PoX](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/StackChain.jpg "StacksChain")
+![PoX](https://github.com/HaroldDavis3/collabora-blockstack/blob/master/collabora-blockstack-master/src/Images/StacksChain.jpg "StacksChain")
 
 The coming functionality of the Stacks chain from Blockstack will enable chains to be built atop of the existing Stacks chain. The same means of doing so, through a recent concensus algorithm proposal PoX(Proof of Transfer) will enable chains to be built atop of said new chains. A current draft of Token Economics for our mission in the Two Row Wampum Social Layer platform will explicitly state that the building of our first chain will be soley as a means to build a NFT chain(NonFungibleToken). This last chain will not function in a non-native economics context but in an indigenous modes of transaction i.e barter & trade context. Distinct from modern economic systems; this approach to regulated and managed trade is based in an never ending effort to establish **balance** between autonomous entities who have agreed to Peace in all interactions with one another as well as ecosystems in which they live.
 
