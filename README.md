@@ -33,6 +33,9 @@ Collabora integration video: https://www.youtube.com/watch?v=FiXHoxiYaZ4
 
 - **Most (Pre)fabricated Kit**- For a beginner's prosumption experience or education as a member of a local system. These kits are made for the smoothest prosumption experience, while emphasizing the consideration of all aspects of the full lifecycle, labor & supply chain(human & nonhuman) in the system the in which the kit was produced. Little production & manufacturing happens as part of customer/system experience; but just enough to give a sweet taste of furthering your prosumption system experience as an active participant. Incentives and benefits designed to make any given base interested in much more than surface level incentives like a new landscape of better paying gig economy or new end of life consumption opportunity; but rather a way toward bottom up sustainable sytems building.
 
+# What the Above looks like in Context of Our Social Layer Mission
+![Corridor'slayout](https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform/blob/master/public/about/23.jpg "Corridor'scircles")
+
 # Away from Conventional Industrial Extraction & Towards Artisanal & Indigenous Modes of Production
 
 
